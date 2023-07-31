@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Laurel Lodge",
+        "location": "Laurel Springs",
+        "number": 237,
+        "phone": "336-372-5473",
+        "events": [
+            {
+                "name": "Stated Communication",
+                "date": "1st Thursday of the month",
+                "time": "7:30pm"
+            }
+        ],
+        "members": [
+            {
+                "name": "John Doe",
+                "email": "",
+                "phone": "",
+                "role": "brother"
+            }
+        ]
+    }
+]

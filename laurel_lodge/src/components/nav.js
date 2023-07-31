@@ -28,16 +28,19 @@ export default function Nav(props) {
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  Features
+                  Members
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  Pricing
+                  Events
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled">Disabled</a>
+                <a class="nav-link" href='#'>Calender</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href='#'>History</a>
               </li>
             </ul>
           </div>
